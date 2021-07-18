@@ -1,2 +1,5 @@
 # Breast-Cancer-Detection
-LIBRARIES:  Numpy  Matplotlib  Pandas
+LIBRARIES:  
+Numpy  
+Matplotlib  
+Pandas
